@@ -15,3 +15,5 @@ manager.complete_task(0)
 # Afficher
 print("=== Mes tâches ===")
 manager.display_all()
+
+print("\n=== Tâches complétées ===")
